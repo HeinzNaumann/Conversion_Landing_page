@@ -10,8 +10,10 @@
     "list": "eslint --fix . --ext .js jsx .ts"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-mailchimp-subscribe": "^2.1.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
